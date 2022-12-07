@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sangeet23
 - 👀 I’m interested in ...python, javascrip, CSS, HTML. 
-- 🌱 I’m currently learning ...HTML
+- 🌱 I’m currently learning ...HTML, CSS python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... sangeet. 23ss@gmail.com and mobile no. 8602376631
 
